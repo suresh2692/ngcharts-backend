@@ -12,7 +12,7 @@ keyring==17.1.1
 keyrings.alt==3.1.1
 MarkupSafe==1.1.1
 tables
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 pycrypto==2.6.1
 python-dateutil==2.8.0
